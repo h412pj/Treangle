@@ -1,6 +1,6 @@
 # h412ph.github.io
 <html>
  <head>
-<a href="index.html"/>Review</a>
+<a href="https://h412pj.github.io/Treangle/"/>Review</a>
     </head>
 </html>
