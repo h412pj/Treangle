@@ -1,0 +1,23 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl Profil_ 80kh60
+Kd 95 95 95
+illum 1
+
+newmtl Profil_ 40kh20
+Kd 74 72 72
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
+newmtl Profil_ 50kh40
+illum 1
+map_Kd Table_textures\default.bmp
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
