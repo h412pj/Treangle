@@ -1,0 +1,59 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl DSP 18 mm _Mramor Karrara belyy_
+illum 1
+map_Kd Voin_textures\F204.jpg
+
+newmtl Metal
+illum 1
+map_Kd Voin_textures\U328.jpg
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl 0_5kh22 - F204
+illum 1
+map_Kd Voin_textures\F204.jpg
+
+newmtl DSP 18 mm _Belyy gladkiy_
+illum 1
+map_Kd Voin_textures\U131.jpg
+
+newmtl 0_5kh22 - 101SM
+illum 1
+map_Kd Voin_textures\U515.jpg
+
+newmtl 1kh22 - VSM-09
+illum 1
+map_Kd Voin_textures\U732.jpg
+
+newmtl VENNI 18 mm _VSM-01_
+illum 1
+map_Kd Voin_textures\U404.jpg
+
+newmtl VENNI 18 mm _VSM-09_
+illum 1
+map_Kd Voin_textures\U332.jpg
+
+newmtl 0_5kh22 - U732
+illum 1
+map_Kd Voin_textures\U732.jpg
+
+newmtl Zerkalo _obychnoe_
+illum 1
+map_Kd Voin_textures\001.jpg
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Ruchka knopka
+Kd 127 127 127
+illum 1
+
+newmtl Nikel_
+Kd 127 127 127
+illum 1
+
