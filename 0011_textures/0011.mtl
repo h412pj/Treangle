@@ -1,0 +1,91 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl F1 Gayka M16
+illum 1
+map_Kd 0011_textures\1625894730_42-kartinkin-com-p-khrom-tekstura-krasivo-44.jpg
+
+newmtl Zharoprochnoe steklo
+Kd 35 35 35
+illum 1
+
+newmtl Seryy
+Kd 83 83 83
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Belyy
+Kd 215 215 215
+illum 1
+
+newmtl AGT 18 mm _Belyy glyanets_
+illum 1
+map_Kd 0011_textures\white-texture-background.jpg
+
+newmtl DVP 3 mm _Odnostoronniy belyy_
+illum 1
+map_Kd 0011_textures\white-texture-background.jpg
+
+newmtl Tablo
+illum 1
+map_Kd 0011_textures\default.bmp
+
+newmtl DSP 18 mm _Belyy gladkiy_
+illum 1
+map_Kd 0011_textures\white-texture-background.jpg
+
+newmtl Nerzhaveyka
+illum 1
+map_Kd 0011_textures\1625894730_42-kartinkin-com-p-khrom-tekstura-krasivo-44.jpg
+
+newmtl Khrom
+Kd 106 106 106
+illum 1
+
+newmtl N Nozhka kukh. P1 KLIPSA
+Kd 36 36 36
+illum 1
+
+newmtl krasnyy 2
+Kd 198 0 0
+illum 1
+
+newmtl Nakleyka 1
+illum 1
+map_Kd 0011_textures\1625894730_42-kartinkin-com-p-khrom-tekstura-krasivo-44.jpg
+
+newmtl Steklo 5 mm
+Kd 59 59 59
+illum 1
+
+newmtl Ruchi _kukhonnaya_
+illum 1
+map_Kd 0011_textures\e79cd667eb63bb067341a5639c9854a3.jpg
+
+newmtl Yashchik Metaboks fas.Z-prof.so stekl.do 800
+illum 1
+map_Kd 0011_textures\e79cd667eb63bb067341a5639c9854a3.jpg
+
+newmtl Noname
+illum 1
+map_Kd 0011_textures\default.bmp
+
+newmtl Plastik temno-seryy
+Kd 97 102 129
+illum 1
+
+newmtl Stoleshnitsa 38 mm _Dub Nebraska_
+illum 1
+map_Kd 0011_textures\H3331_1300x2800_10DE_fur-scaled.jpg
+
+newmtl DSP 18 mm _Dub Nebraska Natur_
+illum 1
+map_Kd 0011_textures\H3331_1300x2800_10DE_fur-scaled.jpg
+
+newmtl Prof.Kvadrat 40kh40/2 4m alyum
+Kd 127 127 127
+illum 1
+
