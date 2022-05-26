@@ -1,0 +1,79 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl 0_5kh22 - H3398
+illum 1
+map_Kd 999_textures\H3398.jpg
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
+newmtl Khrom
+Kd 177 177 177
+illum 1
+
+newmtl Metal
+Kd 154 154 154
+illum 1
+
+newmtl Stena
+Kd 149 149 149
+illum 1
+
+newmtl Plastik seryy
+Kd 255 255 255
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
+newmtl DSP 18 mm _Podlozhka_
+Kd 246 182 127
+illum 1
+
+newmtl DSP 18 mm _Dub Kendal kon_yak_
+illum 1
+map_Kd 999_textures\H3398.jpg
+
+newmtl Shpon 18 mm
+illum 1
+map_Kd 999_textures\H3325.jpg
+
+newmtl Shpon 18 mm _Tekstura 45°_
+illum 1
+map_Kd 999_textures\H3325.jpg
+
+newmtl DSP 18 mm _Belyy gladkiy_
+Kd 255 255 255
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Svetodiodnaya lenta 12V
+Kd 0 240 0
+illum 1
+
+newmtl Seklo _simle_ 6 mm
+Kd 192 192 192
+illum 1
+
+newmtl Polirovka zerkala
+Kd 226 238 250
+illum 1
+
+newmtl Stekloderzhatel_ _khrom_
+Kd 127 127 127
+illum 1
+
+newmtl Noname
+illum 1
+map_Kd 999_textures\default.bmp
+
+newmtl Plastik temno-seryy
+Kd 97 102 129
+illum 1
+
