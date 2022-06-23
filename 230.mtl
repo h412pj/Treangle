@@ -1,0 +1,63 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl DSP Shpon 2 storony
+illum 1
+map_Kd 230_textures\U630.jpg
+
+newmtl Stena
+Kd 149 149 149
+illum 1
+
+newmtl DSP 18 mm _Belyy gladkiy_
+Kd 216 216 216
+illum 1
+
+newmtl Zerkalo _obychnoe_
+illum 1
+map_Kd 230_textures\001.jpg
+
+newmtl DSP Shpon 1 storona
+illum 1
+map_Kd 230_textures\U321.jpg
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Khrom
+Kd 106 106 106
+illum 1
+
+newmtl Shtanga kruglaya D25/0.9
+Kd 216 216 216
+illum 1
+
+newmtl MDF 6 mm _Shpon_
+illum 1
+map_Kd 230_textures\default.bmp
+
+newmtl Svetodiodnaya lenta 12V
+illum 1
+map_Kd 230_textures\U404.jpg
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl Noname
+illum 1
+map_Kd 230_textures\default.bmp
+
+newmtl Plastik temno-seryy
+Kd 97 102 129
+illum 1
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
