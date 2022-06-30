@@ -1,0 +1,139 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl DSP 10 mm _belyy_
+illum 1
+map_Kd 245_textures\W1300.jpg
+
+newmtl Fartukh
+illum 1
+map_Kd 245_textures\F204.jpg
+
+newmtl Svetodiodnaya lenta 12V
+illum 1
+map_Kd 245_textures\U404.jpg
+
+newmtl Metal
+Kd 143 143 143
+illum 1
+
+newmtl Seryy sv
+Kd 255 255 0
+illum 1
+
+newmtl Stal_
+Kd 255 255 255
+illum 1
+
+newmtl Stena
+Kd 149 149 149
+illum 1
+
+newmtl Tablo gazschetchika
+illum 1
+map_Kd 245_textures\default.bmp
+
+newmtl Plastik prozrachnyy
+Kd 255 255 255
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Profil_naya ruchka _chernaya_
+Kd 42 42 42
+illum 1
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl 1kh22 - VHG-01
+illum 1
+map_Kd 245_textures\U630.jpg
+
+newmtl DSP 18 mm _Belyy gladkiy_
+illum 1
+map_Kd 245_textures\U131.jpg
+
+newmtl 0_5kh22 - 101SM
+Kd 255 255 255
+illum 1
+
+newmtl Naves kukhonnyy _Pravyy_
+Kd 228 228 228
+illum 1
+
+newmtl VENNI 18 mm _VHG-01_
+illum 1
+map_Kd 245_textures\U630.jpg
+
+newmtl Plastik seryy
+Kd 255 255 255
+illum 1
+
+newmtl Stoleshnitsa 38 mm _Kamen_ P_etra Gridzhia chyornyy_
+illum 1
+map_Kd 245_textures\F206.jpg
+
+newmtl Khrom
+Kd 177 177 177
+illum 1
+
+newmtl Hettich
+Kd 127 127 127
+illum 1
+
+newmtl Nikel_
+Kd 127 127 127
+illum 1
+
+newmtl Zerkalo _obychnoe_
+illum 1
+map_Kd 245_textures\001.jpg
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
+newmtl DVP 3 mm _Odnostoronniy belyy_
+Kd 233 233 233
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
+newmtl Plastmassa temno-seraya
+illum 1
+map_Kd 245_textures\default.bmp
+
+newmtl Napravlyayushchie sharikovye _do 450 mm_ Napravlyayushchaya levaya
+Kd 127 127 127
+illum 1
+
+newmtl Napravlyayushchie sharikovye _do 450 mm_ Napravlyayushchaya pravaya
+Kd 127 127 127
+illum 1
+
+newmtl Plastik temno-seryy
+Kd 97 102 129
+illum 1
+
+newmtl Noname
+illum 1
+map_Kd 245_textures\default.bmp
+
+newmtl Naves kukhonnyy _Levyy_
+Kd 255 255 255
+illum 1
+
+newmtl Montazhnaya shina
+Kd 127 127 127
+illum 1
+
+newmtl Ruchka knopka
+Kd 127 127 127
+illum 1
+
