@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl MDF RAL 10 mm _1 storona_
+illum 1
+map_Kd 260_textures\U963.jpg
+
+newmtl Seklo _simle_ 4 mm
+illum 1
+map_Kd 260_textures\U540.jpg
+
+newmtl MDF 18 mm _1 storona__Syroy_
+illum 1
+map_Kd 260_textures\U963.jpg
+
