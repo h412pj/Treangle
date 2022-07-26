@@ -1,0 +1,119 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl Nakleyka 1
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl Khrom
+Kd 106 106 106
+illum 1
+
+newmtl Metal
+illum 1
+map_Kd 234_textures\U328.jpg
+
+newmtl 0_5kh22 - 101SM
+illum 1
+map_Kd 234_textures\U515.jpg
+
+newmtl Nakleyka 2
+Kd 65 102 231
+illum 1
+
+newmtl 1kh22 - 735
+illum 1
+map_Kd 234_textures\735.jpg
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl DSP 18 mm _Belyy gladkiy_
+Kd 240 240 240
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
+newmtl DVP 3 mm _Odnostoronniy belyy_
+Kd 233 233 233
+illum 1
+
+newmtl Ruchka knopka
+Kd 127 127 127
+illum 1
+
+newmtl Naves kukhonnyy _Levyy_
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl Montazhnaya shina
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl Naves kukhonnyy _Pravyy_
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl Granitek
+Kd 246 182 127
+illum 1
+
+newmtl 2x42 -  101SM
+Kd 255 255 255
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Nerzhaveyushchaya stal_
+Kd 144 144 144
+illum 1
+
+newmtl Plastik seryy
+Kd 255 255 255
+illum 1
+
+newmtl AGT 18mm _Relaks zelenyy_
+illum 1
+map_Kd 234_textures\735.jpg
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
+newmtl Plastik temno-seryy
+Kd 97 102 129
+illum 1
+
+newmtl Noname
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl Sharik/naprav. 450 mm
+illum 1
+map_Kd 234_textures\default.bmp
+
+newmtl DSP 18 mm _Dub Nebraska Natur_
+illum 1
+map_Kd 234_textures\H3331.jpg
+
+newmtl 0_5kh22 -  H3331
+illum 1
+map_Kd 234_textures\H3331.jpg
+
+newmtl Stoleshnitsa 38 mm _Dub Nebraska_
+illum 1
+map_Kd 234_textures\H3331.jpg
+
+newmtl 2kh42 - H3331
+illum 1
+map_Kd 234_textures\H3331.jpg
+
+newmtl Podfasadnyy ABS 0.5
+Kd 255 255 255
+illum 1
+
